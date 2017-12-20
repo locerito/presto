@@ -98,6 +98,12 @@
         </artifact>
     </artifactSet>
 
+    <artifactSet to="plugin/netezza">
+        <artifact id="${project.groupId}:presto-netezza:zip:${project.version}">
+            <unpack />
+        </artifact>
+    </artifactSet>
+
     <artifactSet to="plugin/postgresql">
         <artifact id="${project.groupId}:presto-postgresql:zip:${project.version}">
             <unpack />
