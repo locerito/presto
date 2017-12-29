@@ -85,6 +85,7 @@
         <module>presto-rcfile</module>
         <module>presto-hive</module>
         <module>presto-hive-hadoop2</module>
+        <module>presto-hive-jdbc</module>
         <module>presto-teradata-functions</module>
         <module>presto-example-http</module>
         <module>presto-local-file</module>
